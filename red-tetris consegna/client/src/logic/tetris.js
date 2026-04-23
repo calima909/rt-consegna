@@ -121,12 +121,12 @@ export function applyGarbage(grid, lines) {
 }
 
 export const COLORS = {
-  I: '#ff0000',
-  O: '#ff0000',
-  T: '#ff0000',
-  S: '#ff0000',
-  Z: '#ff0000',
-  J: '#ff0000',
-  L: '#ff0000',
+  I: '#ff4d4d',
+  O: '#ff3333',
+  T: '#ff1a1a',
+  S: '#e60000',
+  Z: '#cc0000',
+  J: '#b30000',
+  L: '#800000',
   P: '#371638'
 }
