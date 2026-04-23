@@ -6,9 +6,9 @@ Implementato un sistema deterministico di generazione dei pezzi per garantire co
 
 ![Red Tetris Demo](Animazione.gif)
 
-cd server
-node index.js
+cd server <br>
+node index.js <br>
 
-cd client
-npm install
+cd client <br>
+npm install <br>
 npm run dev
